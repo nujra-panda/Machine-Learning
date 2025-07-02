@@ -50,10 +50,8 @@ R² Score (Accuracy): 64.82%
 ## Concepts Used
 
 - Linear regression via **normal equation**:  
-  \[
-  \theta = (X^TX)^{-1}X^Ty
-  \]
-- Standardization of features
+  `$\theta = (X^TX)^{-1}X^Ty$`
+- Standardization of features  
 - Train/Test Split
 - Evaluation metrics: MSE & R²
 

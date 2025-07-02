@@ -61,3 +61,6 @@ R² Score (Accuracy): 64.82%
 
 - This is a **from-scratch** implementation using matrix algebra.
 - Does **not** use `LinearRegression` from scikit-learn to reinforce understanding of fundamentals.
+- The accuracy of the model was ~65% on the test data
+- Here is the output :
+- 

@@ -63,4 +63,5 @@ R² Score (Accuracy): 64.82%
 - Does **not** use `LinearRegression` from scikit-learn to reinforce understanding of fundamentals.
 - The accuracy of the model was ~65% on the test data
 - Here is the output :
-- 
+  <img width="879" alt="image" src="https://github.com/user-attachments/assets/71da124a-bb18-4ebe-9b48-38ae5f477787" />
+
